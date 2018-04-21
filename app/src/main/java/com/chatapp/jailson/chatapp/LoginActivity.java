@@ -20,8 +20,6 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
-        getSupportActionBar().hide();
-
         this.username = (EditText) findViewById(R.id.activity_login_edittext_username);
         this.password = (EditText) findViewById(R.id.activity_login_edittext_passaword);
         this.acess = (Button) findViewById(R.id.activity_login_button_login);
