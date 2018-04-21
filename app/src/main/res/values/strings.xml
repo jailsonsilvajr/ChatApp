@@ -3,4 +3,10 @@
     <string name="email">Email</string>
     <string name="password">Senha</string>
     <string name="acess">Acessar</string>
+    <string name="friends">Amigos</string>
+    <string name="chat">Chat</string>
+    <string name="groups">Grupos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
